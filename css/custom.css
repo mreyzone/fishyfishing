@@ -1,0 +1,86 @@
+body nav .navbar-brand {
+    position: relative; 
+    background: url('images/logo.png'); 
+    background-repeat: no-repeat;
+    width: 2em;
+    height: 2em;
+    background-size: 1.5em;
+    z-index: 199;
+}   
+ 
+.masthead {
+    height: 100vh;
+    min-height: 500px;
+    background-image: url('images/background1.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+ .mastheadregler{
+  height: 80vh;
+  min-height: 400px;
+  background-image: url('images/fiskelagarbild.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+ }
+
+  .maphead {
+    height: 100vh;
+    min-height: 500px;  
+  }
+  .fisharticle, .aboutme{
+      
+    min-height: 500px;
+    margin-top: 4em;
+    margin-left: auto;
+    margin-right: 3em;
+  }
+  .mapboxgl-popup {
+    max-width: 400px;
+    font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    }
+
+.marker {
+    background-image: url('css/images/logo.png');
+    background-size: cover;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    cursor: pointer;
+    }
+
+  .mapboxgl-popup {
+      max-width: 200px;
+    }
+    
+    .mapboxgl-popup-content {
+      text-align: center;
+      font-family: 'Open Sans', sans-serif;
+    }
+
+.card-img-top
+{
+  max-height: 6em;
+  margin: auto;
+  width: auto;
+}
+
+.card .card-footer
+{
+  background-color: #fff;
+  border-top: none;
+}
+.card-title{
+  height: 3em;
+}
+.adis{
+  max-height: 30em;
+}
+#kontakter .img-fluid.rounded.mb-3.mb-md-0{
+height: 75%;
+}
+#regler {
+  margin-top: 3 em;
+}
+
