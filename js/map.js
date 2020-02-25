@@ -17,7 +17,7 @@ $(function () {
             {
             'type': 'Feature',
                 'properties': {
-                'message': 'här finns abborre vjhjkjhbkjh ',
+                'message': 'här finns abborre',
                 'iconSize': [60, 60],
                 'fishtype' :'abborre.jfif'
                 },
@@ -52,6 +52,31 @@ $(function () {
                 }
             }, 
             //klipp slut
+            {
+                'type': 'Feature',
+                    'properties': {
+                    'message': 'här finns makrill',
+                    'iconSize': [60, 60],
+                    'fishtype' :'Makrill.jpg'
+                        },
+                    'geometry': {
+                    'type': 'Point',
+                    'coordinates': [12.903737,55.570921]
+                    }
+                }, 
+
+                {
+                    'type': 'Feature',
+                        'properties': {
+                        'message': 'här finns havsöring',
+                        'iconSize': [60, 60],
+                        'fishtype' :'havsoring.jpg'
+                            },
+                        'geometry': {
+                        'type': 'Point',
+                        'coordinates': [12.986344,55.620036]
+                        }
+                    }, 
         ]
         }; 
       
