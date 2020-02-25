@@ -78,19 +78,21 @@ body nav .navbar-brand {
   max-height: 30em;
 }
 #kontakter .img-fluid.rounded.mb-3.mb-md-0{
-height: 75%;
+height: 70%;
+margin-top: 3em;
 }
+
 #regler {
   margin-top: 3 em;
 }
 
 footer p {
-  
   text-align: center;
   margin: 0;
-  padding: 1em 0 0 0;
-  width: 100%;
+  padding: 1em 0em 0 0;
+  width: 100%;  
 }
+
 footer  {
   margin-top: 1em;
   min-height: 3em;
@@ -125,3 +127,4 @@ footer img {
 .fisharticle {
   margin-left: 3.5em;
 }
+
