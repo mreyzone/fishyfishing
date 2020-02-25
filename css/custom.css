@@ -84,3 +84,44 @@ height: 75%;
   margin-top: 3 em;
 }
 
+footer p {
+  
+  text-align: center;
+  margin: 0;
+  padding: 1em 0 0 0;
+  width: 100%;
+}
+footer  {
+  margin-top: 1em;
+  min-height: 3em;
+  width: 100%;
+}
+
+footer img {
+  max-height: 2.2em;
+  float: right;
+  margin-right: 2em;
+  position: inherit;
+  margin-top: -2em;
+}
+
+.aboutme span{
+  font-weight: 400;
+  font-size: 0.5em;
+}
+
+.aboutme {
+  margin-left: 4em;
+}
+
+.row img { 
+  margin-top: 0.7em;
+}
+
+#regler h4{
+  margin-top: 1.3em;
+}
+
+.fisharticle {
+  margin-left: 3.5em;
+}
