@@ -64,6 +64,7 @@ body nav .navbar-brand {
   max-height: 6em;
   margin: auto;
   width: auto;
+  max-width: 175px;
 }
 
 .card .card-footer
@@ -105,7 +106,7 @@ footer img {
   float: right;
   margin-right: 2em;
   position: inherit;
-  margin-top: -2em;
+  margin-top: -1.5em;
 }
 
 .aboutme span{
